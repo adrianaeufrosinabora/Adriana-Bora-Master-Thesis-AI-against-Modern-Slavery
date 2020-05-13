@@ -1,8 +1,8 @@
 # Adriana-Bora-Master-Thesis-AI-against-Modern-Slavery
 
-This reserach project was created as part of my MASTER IN INTERNATIONAL PUBLIC MANAGEMENT at  INSTITUT D’ÉTUDES POLITIQUES DE PARIS  PARIS SCHOOL OF INTERNATIONAL AFFAIRS.
+The research project was created as part of my Master Program in International Public Management at  Institut D’études Politiques de Paris  - Paris School of International Affairs.
  
-Title: USING AUGMENTED INTELLIGENCE IN ACCELERATING THE ERADICATION OF MODERN SLAVERY APPLIED MACHINE LEARNING IN ANALYSING AND BENCHMARKING THE MODERN SLAVERY BUSINESSES’ REPORTS By ADRIANA-EUFROSINA BORA 
+Title: Using augmented intelligence in accelerating the eradication of modern slavery - Applied machine learning in analysing and benchmarking the modern slavery businesses’ reports by Adriana-E. Bora 
  
 Thesis directed by Jean-Philippe COINTET, Associate Professor at Paris School of International Affairs (PSIA) and adjunct research scholar at INCITE, Columbia University 
  
