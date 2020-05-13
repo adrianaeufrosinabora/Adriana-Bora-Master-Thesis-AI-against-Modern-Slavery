@@ -4,7 +4,7 @@
 
 
 
-INSTITUT D'ÉTUDES POLITIQUES DE PARIS
+INSTITUT D'Ã‰TUDES POLITIQUES DE PARIS
 
 PARIS SCHOOL OF INTERNATIONAL AFFAIRS
 
@@ -21,22 +21,9 @@ Thesis directed by Jean-Philippe COINTET, Associate Professor at Paris School of
 
 MARCH 2019
 
-A.E. BORA
+ADRIANA.E. BORA
 adrianaeufrosina.bora@sciencespo.fr
-The copyright of this Master's thesis remains the property of its author. No part of the content may be reproduced, published, distributed, copied or stored for public or private use without written permission of the author. All authorisation requests should be sent to vanessa.scherrer@sciencespo.fr
-
-STM:  6 MONTHS APARAT DATA ANALYSIS
-
-
-
-FEBRUARY DATA: 
-
-###DOWNLOAD THAT WORKS MAINLY FOR THE ULR BUT DOWNLOADS THE PDFS EMPTY : 
-i <- 0
-for (url in modernslaveryregistry_2019_02_13$URL) 
-{i <- i+1
-
-if (grepl('.pdf', url)){
+The copyright of this Master's thesis remains the property of its author. No part of the content may be reproduced, published, distributed, copied or stored for public or private use without written permission of the author. All authorisation requests should be sent to Adriana BORA.
 filename = paste(toString(i), 'pdf', sep=".")
 }
 else
@@ -165,7 +152,7 @@ return(text.vector)
 
 
 
-###next step: I used cortext  to create a dataset "text " with all the documents .txt  
+###next step: I used Cortext  to create a dataset "text " with all the documents .txt  
 ###next I merged initial data set with the txt dataset : 
 
 total <- merge(modernslaveryregistry_2019_02_13,text,by="filename")
